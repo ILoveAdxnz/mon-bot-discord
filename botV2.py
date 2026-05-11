@@ -11,7 +11,7 @@ import re
 #  Configuration
 # ─────────────────────────────────────────
 PREFIX = "+"
-TOKEN = os.getenv("DISCORD_TOKEN", "MET_TON_TOKEN_ICI")
+TOKEN = os.getenv("DISCORD_TOKEN", "")
 
 intents = discord.Intents.default()
 intents.members = True
