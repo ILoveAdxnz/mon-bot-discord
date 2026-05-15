@@ -1,1 +1,1 @@
-worker: python botV7.py
+worker: python botV8.py
